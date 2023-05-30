@@ -4,16 +4,13 @@ O seguinte trabalho conta com:
 
 
 Diagrama de casos de uso - atores, requistos funcionais e não funcionais, narrativa de casos de uso.<br>
-Interface - Telas de cadastro e gerenciamento de funcionalidade.
-SCRUM - backlog do sistema, elaboração da primeira Sprint e burndown chart.
+Interface - Telas de cadastro e gerenciamento de funcionalidade.<br>
+SCRUM - backlog do sistema, elaboração da primeira Sprint e burndown chart.<br>
 
 
 
-Realizado pelas alunas:
-
-Iara Medeiros Barros
-
-Mirela de Almeida Neder
-
+Realizado pelas alunas:<br>
+Iara Medeiros Barros<br>
+Mirela de Almeida Neder<br>
 Thalita Thie Akayama
 
